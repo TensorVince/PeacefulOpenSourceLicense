@@ -84,7 +84,10 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ****************************************************************************************
 Explanation:
 You allow everyone to reverse engineer all of your projects.
-This includes but is not limit to:
+This includes but is not limited to:
  - disassembling
  - decompiling
+ - port scanning
+ - fingerprinting
+ - footprinting
  - reverse engineering in the broadest and deepest sense of its meaning
