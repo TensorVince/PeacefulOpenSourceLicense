@@ -83,7 +83,7 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 5. You explicitly allow everyone, to reverse engineer every project that is owned by you
 ****************************************************************************************
 Explanation:
-You allow everyone to reverse engineer all of your projects.
+You allow everyone to reverse engineer all of your projects and applications.
 This includes but is not limited to:
  - disassembling
  - decompiling
