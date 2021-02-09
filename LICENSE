@@ -1,9 +1,8 @@
-
 --------------------------------------------------------------------------------------
-PEACEFUL OPEN SOURCE LICENSE
+PEACEFUL OPEN SOURCE LICENSE (POSL)
 --------------------------------------------------------------------------------------
 Author: Vincenzo Galati
-Last Update (yyyy-MM-dd): 2020-01-15
+Last Update (yyyy-MM-dd): 2021-02-09
 Original Url: https://github.com/TensorVince/PeacefulOpenSourceLicense 
 
 Note:
@@ -20,23 +19,53 @@ as long as you agree and comply to the following terms:
 
 1. Peaceful use
 ***************
-You agree that you and your company are not participating in 
-the violation of human law or the harm of other living beings.
+You agree that you and your company are neither participating in 
+the violation of human rights nor the harm of humans or other living beings.
 
 Explanation:
 If your business or purpose includes the harm of living beings, 
 or included the harm of living beings in the past,
-you are NOT ALLOWED to use this project 
-or parts of it.
+you are NOT ALLOWED to use this project or parts of it.
 
 This applies in the first place but is not limited to 
 the following industries and purposes:
  - military 
- - animal slaughter
+ - animal slaughter or fishing
  - violation of human rights or privacy
 
-2. FITNESS FOR A PARTICULAR PURPOSE
-***********************************
+2. Recursive Relicensing
+************************
+All "PEACEFUL OPEN SOURCE LICENSE"-licensed components stay "PEACEFUL OPEN SOURCE LICENSE"-licensed components.
+
+Explanation:
+If you make changes to this project of parts of it,
+you have to relicense them by using the PEACEFUL OPEN SOURCE LICENSE.
+
+If you make this project or parts of it available to someone else in any way,
+you have to do so by using the PEACEFUL OPEN SOURCE LICENSE.
+
+This applies in the first place but is not limited to the following sharing types:
+ - reusing of code e.g. through class libraries or executables (for example: Windows *.dll or *.exe, unix/linux *.so, mac os *.dylib)
+ - filesharing
+ - printed documents (digital e.g. as pdf and physical e.g. on paper)
+ - audio, visual and audiovisual (e.g. using text-to-speech or filmed material to share "PEACEFUL OPEN SOURCE LICENSE"-licensed components)
+ 
+You need to pass the requirements of the PEACEFUL OPEN SOURCE LICENSE to everyone who wants to use "PEACEFUL OPEN SOURCE LICENSE"-licensed components.
+If they do not accept the conditions of the "PEACEFUL OPEN SOURCE LICENSE", THEY ARE NOT ALLOWED TO USE "PEACEFUL OPEN SOURCE LICENSE"-licensed components.
+
+However, you are free to license parts of your project,
+that do not use "PEACEFUL OPEN SOURCE LICENSE"-licensed 
+components as you wish as long as your license complies 
+with "1. Peaceful use" from the PEACEFUL OPEN SOURCE LICENSE.
+
+3. Include a copy of the PEACEFUL OPEN SOURCE LICENSE
+*****************************************************
+If you share "PEACEFUL OPEN SOURCE LICENSE"-licensed components,
+you have to include at least one physical or digital copy 
+of the PEACEFUL OPEN SOURCE LICENSE.
+
+4. WITHOUT WARRANTY AND FITNESS FOR A PARTICULAR PURPOSE
+********************************************************
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
 PARTICULAR PURPOSE AND NONINFRINGEMENT. 
