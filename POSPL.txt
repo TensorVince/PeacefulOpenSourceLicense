@@ -23,5 +23,5 @@ A. You have to accept one of the following licenses:
 
 By using "PEACEFUL OPEN SOURCE PROXY LICENSE"-licensed components,
 without explicitly accepting one of the two above named licenses,
-or by breaking the "PEACEFUL OPEN SOURCE LICENSE",
+or by breaking one or more conditions of the "PEACEFUL OPEN SOURCE LICENSE",
 you automatically accept the conditions of the "EXTENDED PEACEFUL OPEN SOURCE LICENSE".
