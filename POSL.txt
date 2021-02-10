@@ -2,7 +2,7 @@
 PEACEFUL OPEN SOURCE LICENSE (POSL)
 --------------------------------------------------------------------------------------
 Author: Vincenzo Galati
-Last Update (yyyy-MM-dd): 2021-02-09
+Last Update (yyyy-MM-dd): 2021-02-10
 Original Url: https://github.com/TensorVince/PeacefulOpenSourceLicense 
 
 Note:
@@ -46,9 +46,9 @@ you have to do so by using the PEACEFUL OPEN SOURCE LICENSE.
 
 This applies in the first place but is not limited to the following sharing types:
  - reusing of code e.g. through class libraries or executables (for example: Windows *.dll or *.exe, unix/linux *.so, mac os *.dylib)
- - filesharing
- - printed documents (digital e.g. as pdf and physical e.g. on paper)
- - audio, visual and audiovisual (e.g. using text-to-speech or filmed material to share "PEACEFUL OPEN SOURCE LICENSE"-licensed components)
+ - filesharing (e.g. via external media like DVD or USB, via adhoc connections (wireless or wired), via http-servers or ftp-servers , via version control systems like GIT or SVN, via repository-hosters like GITHUB, via filehosters like pastebin or dropbox, via telecommunication applications (like skype), via e-mail, via chat, via social media, etc.)
+ - printed or virtual documents and pictures (physical e.g. printed or written on paper, or digital e.g. as pdf or microsoft word document)
+ - audio, visual and audiovisual (e.g. using a telephone, text-to-speech, photos or filmed material to share "PEACEFUL OPEN SOURCE LICENSE"-licensed components)
  
 You need to pass the requirements of the PEACEFUL OPEN SOURCE LICENSE to everyone who wants to use "PEACEFUL OPEN SOURCE LICENSE"-licensed components.
 If they do not accept the conditions of the "PEACEFUL OPEN SOURCE LICENSE", THEY ARE NOT ALLOWED TO USE "PEACEFUL OPEN SOURCE LICENSE"-licensed components.

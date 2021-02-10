@@ -2,11 +2,11 @@
 PEACEFUL OPEN SOURCE PROXY LICENSE (POSPL)
 --------------------------------------------------------------------------------------
 Author: Vincenzo Galati
-Last Update (yyyy-MM-dd): 2021-02-09
+Last Update (yyyy-MM-dd): 2021-02-10
 Original Url: https://github.com/TensorVince/PeacefulOpenSourceLicense 
 
 Note:
-This License is based on the "PEACEFUL OPEN SOURCE LICENSE" (POSL).
+This License is a wrapper for the "PEACEFUL OPEN SOURCE LICENSE" (POSL).
 It contains some security mechanisms to prevent fraudsters from circumventing POSL requirements.
 
 --------------------------------------------------------------------------------------
