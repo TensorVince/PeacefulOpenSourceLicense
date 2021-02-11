@@ -2,7 +2,7 @@
 PEACEFUL OPEN SOURCE LICENSE (POSL)
 --------------------------------------------------------------------------------------
 Author: Vincenzo Galati
-Last Update (yyyy-MM-dd): 2021-02-10
+Last Update (yyyy-MM-dd): 2021-02-11
 Original Url: https://github.com/TensorVince/PeacefulOpenSourceLicense 
 
 Note:
@@ -29,7 +29,7 @@ you are NOT ALLOWED to use this project or parts of it.
 
 This applies in the first place but is not limited to 
 the following industries and purposes:
- - military 
+ - military
  - animal slaughter or fishing
  - violation of human rights or privacy
 

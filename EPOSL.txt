@@ -2,7 +2,7 @@
 EXTENDED PEACEFUL OPEN SOURCE LICENSE (EPOSL)
 --------------------------------------------------------------------------------------
 Author: Vincenzo Galati
-Last Update (yyyy-MM-dd): 2021-02-10
+Last Update (yyyy-MM-dd): 2021-02-11
 Original Url: https://github.com/TensorVince/PeacefulOpenSourceLicense 
 
 Note:
@@ -51,8 +51,8 @@ you have to do so by using the EXTENDED PEACEFUL OPEN SOURCE LICENSE.
 This applies in the first place but is not limited to the following sharing types:
  - reusing of code e.g. through class libraries or executables (for example: Windows *.dll or *.exe, unix/linux *.so, mac os *.dylib)
  - filesharing (e.g. via external media like DVD or USB, via adhoc connections (wireless or wired), via http-servers or ftp-servers , via version control systems like GIT or SVN, via repository-hosters like GITHUB, via filehosters like pastebin or dropbox, via e-mail, via chat, via social media, etc.)
- - printed documents (digital e.g. as pdf and physical e.g. on paper)
- - audio, visual and audiovisual (e.g. using text-to-speech, photos or filmed material to share "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed components)
+ - printed or virtual documents and pictures (physical e.g. printed or written on paper, or digital e.g. as pdf or microsoft word document)
+ - audio, visual and audiovisual (e.g. using a telephone, text-to-speech, photos or filmed material to share "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed components)
  
 You need to pass the requirements of the EXTENDED PEACEFUL OPEN SOURCE LICENSE to everyone who wants to use "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed components.
 If they do not accept the conditions of the "EXTENDED PEACEFUL OPEN SOURCE LICENSE", THEY ARE NOT ALLOWED TO USE "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed components.
@@ -100,8 +100,7 @@ uses components that are licensed by at least one of the
 before mentioned licenses:
  - Continue to develop your project or parts of it
     -> the only exceptions to this term are modifications to comply with the EXTENDED PEACEFUL OPEN SOURCE LICENCE
- - Sharing your project or parts of it, if one can assume that it will be used to hurt living beings, be it physically or mentally
-    -> the only exceptions to this term are you or your clients/customers are to be hurt (for example because you or them breached terms of the EXTENDED PEACEFUL OPEN SOURCE LICENSE and are now being sued, your project would be shown as evidence)
+ - Sharing your project or parts of it, if one can assume that it will be used to hurt other living beings than yourself, be it physically or mentally
  - Selling your project or parts of it
 
 7. Explicit permit to reverse engineer your projects
