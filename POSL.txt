@@ -3,7 +3,8 @@ PEACEFUL OPEN SOURCE LICENSE (POSL)
 --------------------------------------------------------------------------------------
 Author: Vincenzo Galati
 Last Update (yyyy-MM-dd): 2021-02-11
-Original Url: https://github.com/TensorVince/PeacefulOpenSourceLicense 
+Repository: https://github.com/TensorVince/PeacefulOpenSourceLicense 
+Direkt Link: https://raw.githubusercontent.com/TensorVince/PeacefulOpenSourceLicense/master/POSL.txt
 
 Note:
 This License contains parts of the MIT License.
