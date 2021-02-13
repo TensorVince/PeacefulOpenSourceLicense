@@ -2,7 +2,7 @@
 EXTENDED PEACEFUL OPEN SOURCE LICENSE (EPOSL)
 --------------------------------------------------------------------------------------
 Author: Vincenzo Galati
-Last Update (yyyy-MM-dd): 2021-02-11
+Last Update (yyyy-MM-dd): 2021-02-13
 Repository: https://github.com/TensorVince/PeacefulOpenSourceLicense 
 Direkt Link: https://raw.githubusercontent.com/TensorVince/PeacefulOpenSourceLicense/master/EPOSL.txt
 
@@ -84,7 +84,7 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ***************
 As long as your project contains "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed components,
 all contractual restrictions are still valid, this applies especially to:
- - "6. Project Hold if you or your company violate one or more terms of the EXTENDED PEACEFUL OPEN SOURCE LICENSE"
+ - "6. Project freeze if you or your company violate one or more terms of the EXTENDED PEACEFUL OPEN SOURCE LICENSE"
  - "7. Explicit permit to reverse engineer your project"
 
 6. Project freeze if you or your company violate one or more terms of the EXTENDED PEACEFUL OPEN SOURCE LICENSE
