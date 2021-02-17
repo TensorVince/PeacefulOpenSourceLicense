@@ -1,4 +1,11 @@
-You need to accept POSPL.
+WARNING! 
+This license is still under development and 
+needs to be checked for legal compliance.
+
+
+To make use of this license, the enduser has to accept the 
+PEACEFUL OPEN SOURCE PROXY LICENSE (POSPL).
 The other two licenses are sublicenses.
 
-further details in the README will follow later...
+
+Further details will follow...
