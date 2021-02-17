@@ -15,7 +15,8 @@ https://opensource.org/licenses/MIT
 LICENSE:
 --------------------------------------------------------------------------------------
 You may use this project and/or parts of it
-for any purpose (commercial and non-commercial)
+for any purpose (commercial and non-commercial),
+including the embedding in your own projects or products (from now on only refered to as your products),
 as long as you agree and comply to the following terms:
 
 1. Peaceful use
@@ -39,7 +40,7 @@ the following industries and purposes:
 All "PEACEFUL OPEN SOURCE LICENSE"-licensed components stay "PEACEFUL OPEN SOURCE LICENSE"-licensed components.
 
 Explanation:
-If you make changes to this project of parts of it,
+If you make changes to this project or parts of it,
 you have to relicense them by using the PEACEFUL OPEN SOURCE LICENSE.
 
 If you make this project or parts of it available to someone else in any way,
@@ -54,7 +55,7 @@ This applies in the first place but is not limited to the following sharing type
 You need to pass the requirements of the PEACEFUL OPEN SOURCE LICENSE to everyone who wants to use "PEACEFUL OPEN SOURCE LICENSE"-licensed components.
 If they do not accept the conditions of the "PEACEFUL OPEN SOURCE LICENSE", THEY ARE NOT ALLOWED TO USE "PEACEFUL OPEN SOURCE LICENSE"-licensed components.
 
-However, you are free to license parts of your project,
+However, you are free to license parts of your product,
 that do not use "PEACEFUL OPEN SOURCE LICENSE"-licensed 
 components as you wish as long as your license complies 
 with "1. Peaceful use" from the PEACEFUL OPEN SOURCE LICENSE.
