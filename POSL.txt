@@ -47,7 +47,7 @@ you have to do so by using the PEACEFUL OPEN SOURCE LICENSE.
 
 This applies in the first place but is not limited to the following sharing types:
  - reusing of code e.g. through class libraries or executables (for example: Windows *.dll or *.exe, unix/linux *.so, mac os *.dylib)
- - filesharing (e.g. via external media like DVD or USB, via adhoc connections (wireless or wired), via http-servers or ftp-servers , via version control systems like GIT or SVN, via repository-hosters like GITHUB, via filehosters like pastebin or dropbox, via telecommunication applications (like skype), via e-mail, via chat, via social media, etc.)
+ - filesharing (e.g. via external media like DVD or USB, via network connections (wireless or wired), via http-servers or ftp-servers , via version control systems like GIT or SVN, via repository-hosters like GITHUB, via filehosters like pastebin or dropbox, via telecommunication applications (like skype), via e-mail, via chat, via social media, etc.)
  - printed or virtual documents and pictures (physical e.g. printed or written on paper, or digital e.g. as pdf or microsoft word document)
  - audio, visual and audiovisual (e.g. using a telephone, text-to-speech, photos or filmed material to share "PEACEFUL OPEN SOURCE LICENSE"-licensed components)
  
