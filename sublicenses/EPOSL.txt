@@ -19,7 +19,8 @@ https://opensource.org/licenses/MIT
 LICENSE:
 --------------------------------------------------------------------------------------
 You may use this project and/or parts of it
-for any purpose (commercial and non-commercial)
+for any purpose (commercial and non-commercial),
+including the embedding in your own projects or products (from now on only refered to as your products),
 as long as you agree and comply to the following terms:
 
 1. Peaceful use
@@ -43,7 +44,7 @@ the following industries and purposes:
 All "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed components stay "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed components.
 
 Explanation:
-If you make changes to this project of parts of it,
+If you make changes to this project or parts of it,
 you have to relicense them by using the EXTENDED PEACEFUL OPEN SOURCE LICENSE.
 
 If you make this project or parts of it available to someone else in any way,
@@ -58,7 +59,7 @@ This applies in the first place but is not limited to the following sharing type
 You need to pass the requirements of the EXTENDED PEACEFUL OPEN SOURCE LICENSE to everyone who wants to use "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed components.
 If they do not accept the conditions of the "EXTENDED PEACEFUL OPEN SOURCE LICENSE", THEY ARE NOT ALLOWED TO USE "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed components.
 
-However, you are free to license parts of your project,
+However, you are free to license parts of your product,
 that do not use "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed 
 components as you wish as long as your license complies 
 with "1. Peaceful use" from the EXTENDED PEACEFUL OPEN SOURCE LICENSE.
@@ -82,32 +83,33 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 5. Severability
 ***************
-As long as your project contains "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed components,
+As long as your product contains "EXTENDED PEACEFUL OPEN SOURCE LICENSE"-licensed components,
 all contractual restrictions are still valid, this applies especially to:
- - "6. Project freeze if you or your company violate one or more terms of the EXTENDED PEACEFUL OPEN SOURCE LICENSE"
- - "7. Explicit permit to reverse engineer your project"
+ - "6. Development freeze if you or your company violate one or more terms of the EXTENDED PEACEFUL OPEN SOURCE LICENSE"
+ - "7. Explicit permit to reverse engineer your product"
 
-6. Project freeze if you or your company violate one or more terms of the EXTENDED PEACEFUL OPEN SOURCE LICENSE
-*************************************************************************************************************
-As soon as you don't agree to one or more terms anymore,
+6. Development freeze if you or your company violate one or more terms of the EXTENDED PEACEFUL OPEN SOURCE LICENSE
+*******************************************************************************************************************
+As soon as you break one or more terms 
+or if you don't agree to one or more terms anymore,
 you lose your rights to use projects or components that are 
 licensed with one or more of the following licenses:
  - PEACEFUL OPEN SOURCE LICENSE (POSL)
  - EXTENDED PEACEFUL OPEN SOURCE LICENSE (EPOSL)
  - PEACEFUL OPEN SOURCE PROXY LICENSE (POSPL)
 
-Also the following becomes prohibited for every project that 
+Also the following becomes prohibited for every product that 
 uses components that are licensed by at least one of the 
 before mentioned licenses:
- - To further develop your project or parts of it
+ - To further develop your product or parts of it
     -> the only exceptions to this term are modifications to comply with the EXTENDED PEACEFUL OPEN SOURCE LICENCE
- - Sharing your project or parts of it, if one can assume that it will be used to hurt other living beings than yourself, be it physically or mentally
- - Selling your project or parts of it
+ - Sharing your product or parts of it, if one can assume that it will be used to hurt other living beings than yourself, be it physically or mentally
+ - Selling your product or parts of it
 
-7. Explicit permit to reverse engineer your projects
+7. Explicit permit to reverse engineer your products
 ****************************************************
 Explanation:
-You allow everyone to reverse engineer all projects (hardware and software) 
+You allow everyone to reverse engineer all products (hardware and software) 
 that contain components that are licensed with one or more of the following licenses:
  - PEACEFUL OPEN SOURCE LICENSE (POSL)
  - EXTENDED PEACEFUL OPEN SOURCE LICENSE (EPOSL)
