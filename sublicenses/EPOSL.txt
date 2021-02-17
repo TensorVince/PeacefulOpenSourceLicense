@@ -2,7 +2,7 @@
 EXTENDED PEACEFUL OPEN SOURCE LICENSE (EPOSL)
 --------------------------------------------------------------------------------------
 Author: Vincenzo Galati
-Last Update (yyyy-MM-dd): 2021-02-13
+Last Update (yyyy-MM-dd): 2021-02-18
 Repository: https://github.com/TensorVince/PeacefulOpenSourceLicense 
 Direkt Link: https://raw.githubusercontent.com/TensorVince/PeacefulOpenSourceLicense/master/EPOSL.txt
 
