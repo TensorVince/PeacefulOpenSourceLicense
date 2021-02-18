@@ -18,6 +18,7 @@ If he chooses none or breaks the POSL, he automatically accepts the EPOSL.
 ## POSL and EPOSL summarized:
 
 ###PEACEFUL OPEN SOURCE LICENSE (POSL)
+
 1. PEACEFUL USE<br>
  -> No Military<br>
  -> No animal abuse, fishing, etc.<br>
@@ -31,6 +32,7 @@ If he chooses none or breaks the POSL, he automatically accepts the EPOSL.
 <br>
 
 ###EXTENDED PEACEFUL OPEN SOURCE LICENSE (EPOSL)
+
 Includes everything the POSL has PLUS:
 
 5. As long as the enduser uses EPOSL components, restrictions (6. + 7.) are still active, even if he breaks other terms
@@ -44,6 +46,9 @@ This means following if the enduser uses violence:
 - the enduser can be sued anytime (reverse engineering can be used to proof that the enduser used POSL-licensed components without complying with the license agreement)
 - the endusers tradesecrets can be legally exposed (this can cost the enduser lots of money)
 - reputational damage (loss of customers => again, loss of money)
+
+Also no company/enduser is allowed to use POSL licensed software/hardware, <br>
+if they ever used violence against living beeings.
 
 
 
