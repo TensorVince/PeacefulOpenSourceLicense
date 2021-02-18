@@ -9,15 +9,14 @@ needs to be checked for legal compliance.<br>
 ### About
 This license was created to sanction violence of any kind.
 
-### How to use the license?
+### How to use this license?
 To make use of this license, the enduser has to accept the <br>
 PEACEFUL OPEN SOURCE PROXY LICENSE (POSPL).<br>
-In order to do that, he must accept one of the two sublicenses:<br>
+In order to do that, he must agree to one of the two sublicenses:<br>
 If he chooses none or breaks the POSL, he automatically accepts the EPOSL.
 
 ## POSL and EPOSL summarized:
-
-####PEACEFUL OPEN SOURCE LICENSE (POSL)
+###PEACEFUL OPEN SOURCE LICENSE (POSL)
 1. PEACEFUL USE<br>
  -> No Military<br>
  -> No animal abuse, fishing, etc.<br>
@@ -30,13 +29,13 @@ If he chooses none or breaks the POSL, he automatically accepts the EPOSL.
 4. POSL-components are without warranty and fitness for a particular purpose
 <br>
 
-####EXTENDED PEACEFUL OPEN SOURCE LICENSE (EPOSL)
+###EXTENDED PEACEFUL OPEN SOURCE LICENSE (EPOSL)
 Includes everything the POSL has PLUS:
 
 5. As long as the enduser uses EPOSL components, restrictions (6. + 7.) are still active, even if he breaks other terms
 6. Project-Freeze: Enduser is not allowed to develop his/her project any further (except to comply with EPOSL)
-7. EVERYONE is allowed to reverse engineer EVERY product of the enduser as long as the enduser uses EPOSL licensed components  
-
+7. EVERYONE is allowed to reverse engineer EVERY product of the enduser as long as the enduser uses EPOSL licensed components
+--
 ##Summary
 This means following if the enduser uses violence:
 
