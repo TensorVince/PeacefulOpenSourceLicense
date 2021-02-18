@@ -1,10 +1,10 @@
 
 ⚠️ WARNING! ⚠️
 --
-🚧 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧<br>
+🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧<br>
 This license is still under development and <br> 
 needs to be checked for legal compliance.<br>
-🚧 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧<br>
 --
 ### About
 This license was created to sanction violence of any kind.
@@ -40,7 +40,7 @@ Includes everything the POSL has PLUS:
 ##Summary
 This means following if the enduser uses violence:
 
-- the enduser can be sued anytime (reverse engineering can be used to collect evidence)
+- the enduser can be sued anytime (reverse engineering can be used to proof that the enduser used POSL-licensed components without complying with the license agreement)
 - the endusers tradesecrets can be legally exposed (this can cost the enduser lots of money)
 - reputational damage (loss of customers => again, loss of money)
 
