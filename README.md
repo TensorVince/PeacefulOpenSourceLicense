@@ -42,8 +42,9 @@ Includes everything the POSL has PLUS:
 
 
 ## Summary
-This means following if the enduser/company ever violated<br>
-human law, privacy or harmed animals, fishes or other fauna:
+    This means following for the enduser/company
+    if they ever violated human law or privacy
+    or harmed animals, fishes or other fauna:
 
     * the enduser/company can be sued anytime
     * reverse engineering can be used to proof that the enduser/company used (E)POSL-licensed components)
