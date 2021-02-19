@@ -42,14 +42,13 @@ Includes everything the POSL has PLUS:
 
 
 ## Summary
-    This means following for the enduser/company
+    This means following for the enduser/company (licensee)
     if they ever violated human law or privacy
     or harmed animals, fishes or other fauna:
 
     * the enduser/company can be sued anytime
-    * reverse engineering can be used to proof that the enduser/company used (E)POSL-licensed components)
-    * the endusers/companies tradesecrets can be legally exposed (this can cost the enduser lots of money)
+    * reverse engineering can be used to proof that the enduser/company used EPOSL-licensed components)
+    * the endusers/companies tradesecrets can be legally exposed via reverse engineering (which probably boosts their competitors)
+    * Prohibition to further develop the affected product (loss of already invested money)
+    * Prohibition to sell the affected product (loss of money due to lost profit)
     * reputational damage (loss of customers => again, loss of money)
-
-
-
