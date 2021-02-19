@@ -17,7 +17,7 @@ If he chooses none or breaks the POSL, he automatically accepts the EPOSL.
 
 ## POSL and EPOSL summarized:
 
-###PEACEFUL OPEN SOURCE LICENSE (POSL)
+### PEACEFUL OPEN SOURCE LICENSE (POSL)
 
 1. PEACEFUL USE<br>
  -> No Military<br>
@@ -31,7 +31,7 @@ If he chooses none or breaks the POSL, he automatically accepts the EPOSL.
 4. POSL-components are without warranty and fitness for a particular purpose
 <br>
 
-###EXTENDED PEACEFUL OPEN SOURCE LICENSE (EPOSL)
+### EXTENDED PEACEFUL OPEN SOURCE LICENSE (EPOSL)
 
 Includes everything the POSL has PLUS:
 
@@ -40,7 +40,8 @@ Includes everything the POSL has PLUS:
 7. EVERYONE is allowed to reverse engineer EVERY product of the enduser as long as the enduser uses EPOSL licensed components
 
 --
-##Summary
+
+## Summary
 This means following if the enduser uses violence:
 
 - the enduser can be sued anytime (reverse engineering can be used to proof that the enduser used POSL-licensed components without complying with the license agreement)
